@@ -1,0 +1,20 @@
+{
+  "name": "mylife-home-coomon",
+  "version": "0.0.1",
+  "description": "Mylife Home Common",
+  "main": "index.js",
+  "repository": "https://github.com/vincent-tr/mylife-home-common",
+  "author": "Vincent Trumpff",
+  "dependencies": {
+    "irc": "*",
+    "log4js": "*"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  }
+}
