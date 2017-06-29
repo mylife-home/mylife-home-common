@@ -8,6 +8,7 @@
   "dependencies": {
     "async": "*",
     "github": "0.2.4",
+    "human-format": "^0.8.0",
     "irc": "*",
     "log4js": "*",
     "read-package-tree": "^5.1.6",
