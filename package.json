@@ -6,8 +6,12 @@
   "repository": "https://github.com/vincent-tr/mylife-home-common",
   "author": "Vincent Trumpff",
   "dependencies": {
+    "async": "*",
+    "github": "0.2.4",
     "irc": "*",
-    "log4js": "*"
+    "log4js": "*",
+    "read-package-tree": "^5.1.6",
+    "semver": "^5.3.0"
   },
   "devDependencies": {
     "chai": "*",
